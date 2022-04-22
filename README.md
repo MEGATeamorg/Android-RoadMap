@@ -30,22 +30,22 @@ This road-map for android development that can help you to start creating applic
 ![course-image_1589363660](https://user-images.githubusercontent.com/67293611/164345273-47d1fd25-ef6c-402d-8e51-b6e2fc1325db.jpg)
 
 ### 📖 Resources: 
-##### pick up one 👉🏻👈🏻
-###### I-Abdullah Eid
-1. [Java 101](shorturl.at/jxGPR)
+##### `pick up one 👉🏻👈🏻`
+###### + Abdullah Eid
++ [Java 101](shorturl.at/jxGPR)
 
-2. [Java 102](shorturl.at/agkpO)
++ [Java 102](shorturl.at/agkpO)
 
-3. [Java 103](shorturl.at/hrsAI)
++ [Java 103](shorturl.at/hrsAI)
 
-###### II-[Mohamed El Desouky](shorturl.at/vwQ19)
+###### + [Mohamed El Desouky](shorturl.at/vwQ19)
 
 ##### Before moving to next level you should practice on some topics like Looping,Conditional structure,Array and OOP
 #### GOahead and creat bank or hospital system
 
 ⚫⚪ Now you are ready to start with android
 
-## Basic Level
+## beginner Level
 
 
 #### Now you are ready to build UI using xml and write some java code at android studio.
@@ -56,18 +56,14 @@ This road-map for android development that can help you to start creating applic
 English
 Udacity:
 
-Android Basics: User Interface 
-https://mena.udacity.com/course/android-basics-user-interface--ud834
+Android Basics: [User Interface](https://mena.udacity.com/course/android-basics-user-interface--ud834)
 
-Android Basics: User Input 
-https://mena.udacity.com/course/android-basics-user-input--ud836
+Android Basics: [User Input](https://mena.udacity.com/course/android-basics-user-input--ud836)
 
-Android Basics: Multiscreen Apps
-https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839
+Android Basics: [Multiscreen Apps](https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839)
 
 After you have learned to use Relative and Linear layout.. there is another amazing thing called Constraint layout to build a responsive layout
-check this playlist
-https://www.youtube.com/watch?v=4N4bCdyGcUc&list=PLrnPJCHvNZuA80lNWNCLICR3qYzhw3iPI
+check this [playlist](https://www.youtube.com/watch?v=4N4bCdyGcUc&list=PLrnPJCHvNZuA80lNWNCLICR3qYzhw3iPI)
 
 ##### what are you wating for? goahead and use every thing that you leant from this level
 
@@ -80,8 +76,7 @@ https://www.youtube.com/watch?v=4N4bCdyGcUc&list=PLrnPJCHvNZuA80lNWNCLICR3qYzhw3
 
 
 #### 📋 Resources:
-#### check this tutorial
-https://www.youtube.com/watch?v=Nw9JF55LDzE&list=PLrnPJCHvNZuBtTYUuc5Pyo4V7xZ2HNtf4
+#### check this [tutorial](https://www.youtube.com/watch?v=Nw9JF55LDzE&list=PLrnPJCHvNZuBtTYUuc5Pyo4V7xZ2HNtf4)
 
 ## 😉Then you are ready for Database
 
@@ -94,13 +89,11 @@ https://www.youtube.com/watch?v=Nw9JF55LDzE&list=PLrnPJCHvNZuBtTYUuc5Pyo4V7xZ2HN
 ![sqlite-database-operations](https://user-images.githubusercontent.com/67293611/164361047-9ac8a17d-6740-4147-a20e-dbb7441940f0.jpg)
 
 #### 📋 Resources:
-#### simple tutorial
-https://www.youtube.com/watch?v=FR4QIeZaPeM&feature=youtu.be
+#### simple [tutorial](https://www.youtube.com/watch?v=FR4QIeZaPeM&feature=youtu.be)
 #### then start with learning sqllite commands before implement it with android studio:
 
 #### 📋 Resources:
-#### ProgrammingKnowledge: check this
-https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS
+#### ProgrammingKnowledge: [check](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)
 
 
 #### Learn how to store data into your local database of your application by learning room database.

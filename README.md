@@ -32,20 +32,13 @@ This road-map for android development that can help you to start creating applic
 ### 📖 Resources: 
 ##### pick up one 👉🏻👈🏻
 ###### I-Abdullah Eid
-1. Java 101 
+1. [Java 101](shorturl.at/jxGPR)
 
-shorturl.at/jxGPR
+2. [Java 102](shorturl.at/agkpO)
 
-2. Java 102 
+3. [Java 103](shorturl.at/hrsAI)
 
-shorturl.at/agkpO
-
-3. Java 103
- 
-shorturl.at/hrsAI
-
-###### II-Mohamed El Desouky
-shorturl.at/vwQ19
+###### II-[Mohamed El Desouky](shorturl.at/vwQ19)
 
 ##### Before moving to next level you should practice on some topics like Looping,Conditional structure,Array and OOP
 #### GOahead and creat bank or hospital system
@@ -113,3 +106,71 @@ https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS
 #### Learn how to store data into your local database of your application by learning room database.
 
 #### Make sure you made your hands ditry with code from all levels😅
+
+
+## Advanced Java
+
+it's time to learn about networking basics 
+
+### 📋 Resources:
+Android Basics: Networking 
+1. [check this](https://www.udacity.com/course/android-basics-networking--ud843)
+
+ So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
+
+### 📋 Resources:
+Udacity:
+2. [check this](https://www.udacity.com/course/new-android-fundamentals--ud851)
+
+## After that you should learn Retrofit.Okay,But what is this thing?
+### Let me say Retrofit The best thing that happened in the history of Android
+### Simply put, Retrofit is to support RESTful api architecture http network request framework encapsulation library, Retrofit encapsulates many custom annotations, which greatly facilitates and simplifies use, in addition to the flexibility is also higher, the bottom layer okhttp to achieve a real network request, it can be said that their relationship is a division of labor and cooperation. The summary is one sentence: Retrofit let okhttp network requests more elegant!
+
+### Their relationship can be more easily understood by looking at the following figure:
+![542db77e724a1108e874813c5686f7d6](https://user-images.githubusercontent.com/67293611/164581631-ba90002f-6797-4dee-89fb-bc1de025727f.png)
+
+### 📋 Resources:
+3. Coding in flow
+[APIs](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
+
+### This step is optional, but highly recommended. We will learn to use Material Design if you want to know more about GoogleIt
+### [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+
+
+:Go a head and build a project and use the tools that you learned:
+##### And here some resources for [advanced apps](https://www.udacity.com/course/advanced-android-app-development--ud855)
+
+##  Now my time comes "Kotlin"
+
+![1_99YiKjwB2TliKVA-yGogNQ](https://user-images.githubusercontent.com/67293611/164585376-c03ad8a8-c1a3-42f9-92e7-8357fe2186f5.png)
+>- In 2010, JetBrains began developing this language, before the company announced it in 2011, and the language became officially open source in 2012                    In February 2016, the company announced the release of the first official version of Kotlin 1.0                                                                      Then, in May 2017, Google officially announced its official support for Kotlin as a first-class language at the developer conference, and it can be used to write Android applications using various platforms.
+
+### Going to start with bascis Kotlin
+### 📝 Resources :
+   [new baghdad](https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ) till video 38
+   
+## Before moving to Android with Kotlin make the same project java but in this time with Kotlin
+
+## Now u can start Android with Kotlin,But shall I start from first?😢
+
+### No,All you have to do is seeing applications written in kotlin and understand it well,watching playlists that make apps and some articals
+
+## Some topics to GoogleIt🦸‍♂️
++ Architecture pattern (MVVM, MVP, MVI).
++ customization of Retrofit.
++ Learn some design patterns.
++ Dependency injection
++ Kotlin coroutines.
++ Jetpack compose.
++ Security&Testing.
+
+## Then I finshed?🥱
+### I think you are in the Middle of the right way keep learning and check all updates
+
+## Some YouTube channel that can help you 📫
++ [coding in flow](https://www.youtube.com/c/CodinginFlow/featured)
++ [Android Developers](https://www.youtube.com/c/AndroidDevelopers/featured) 
++ [Caleb Curry](https://www.youtube.com/c/CalebTheVideoMaker2/featured)
++ [CodingWithMitch](https://www.youtube.com/c/CodingWithMitch/featured) 
++ [DJ Malone](https://www.youtube.com/c/DanielMalone/featured)
++ [coding with nerds](https://www.youtube.com/results?search_query=coding+with+nerds)
